@@ -63,3 +63,14 @@ i.fab:hover {
 #kuva {
     width: 40%;
 }
+
+.KO,
+.KeKo,
+.KA,
+.SyKo {
+    position: relative;
+    display: list-item;
+    max-width: 40%;
+
+}
+
