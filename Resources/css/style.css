@@ -118,5 +118,10 @@ i.fab:hover {
     max-width: 30%;
     padding-right: 20px;
     float: right;
-    top: -170px;
+    top: -260px;
+    border-radius: 50%;
+}
+
+.jasenyys2 {
+    padding: 20px 20px;
 }
