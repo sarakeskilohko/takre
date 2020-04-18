@@ -95,7 +95,8 @@ i.fab:hover {
     position: relative;
     display: list-item;
     width: 60%;
-    
+    top: -20px;
+    float: right;
 }
 
 #cal {
