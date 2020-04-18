@@ -112,3 +112,11 @@ i.fab:hover {
 .jäsenyys {
     padding: 20px 20px;
 }
+
+#merkki {
+    position: relative;
+    max-width: 30%;
+    padding-right: 20px;
+    float: right;
+    top: -170px;
+}
