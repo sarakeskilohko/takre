@@ -38,8 +38,12 @@ html {
 .contacts {
     text-align: center;
     display: block;
-    padding: 10px;
-    position: absolute bottom;
+    position: absolute;
+    padding: 10px 0px;
+    width: 100%;
+    bottom: 0px;
+    background-color: #ff9d1c;
+    left: 0px;
 }
 
 .email {
@@ -62,20 +66,26 @@ i.fab:hover {
 }
 
 #kuva {
-    width: 40%;
-    padding-top: 30px;
+    max-width: 40%;
+    padding: 32px;
+    float: right;
 }
 
 .esittely {
-    width: 35%;
-    padding: 10%;
-    margin: 12px;
+    max-width: 35%;
+    padding: 32px;
+    float: left;
 }
 
-.aloitus {
-    display: flex;
-    align-items: center;
-    flex-direction: row;
+.contactsT {
+    text-align: center;
+    display: block;
+    position: fixed;
+    padding: 10px;
+    width: 100%;
+    bottom: 0px;
+    background-color: #ff9d1c;
+    left: 0px;
 }
 
 .KO,
@@ -88,3 +98,6 @@ i.fab:hover {
     
 }
 
+#cal {
+    padding: 24px;
+}
