@@ -17,3 +17,6 @@ Sivujen sisältö on seuraavanlainen:
         
      - Jäseneksi
         Sivulla kerrotaan ohjeet jäseneksi liittymisestä sekä ilmoitetaan seuran jäsenhinnasto. 
+        
+        
+Jokaisen sivun alareunasta löytyvät linkit seuran Facebookiin ja Instagramiin, sekä seuran sähköpostiosoite.
