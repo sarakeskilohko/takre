@@ -66,8 +66,8 @@ i.fab:hover {
 }
 
 #kuva {
-    max-width: 40%;
-    padding: 32px;
+    max-width: 37%;
+    padding: 20px;
     float: right;
 }
 
@@ -125,4 +125,11 @@ i.fab:hover {
 
 .jasenyys2 {
     padding: 20px 20px;
+}
+
+#peltikatto {
+    max-width: 20%;
+    padding: 20px;
+    float: right;
+    margin-bottom: 75px;
 }
