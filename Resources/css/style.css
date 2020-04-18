@@ -15,6 +15,7 @@ html {
 
 .menu {
     float: right;
+    font-weight: bold;
 }
 
 #nav{
@@ -41,7 +42,7 @@ html {
 }
 
 .email {
-    font-size: 32px;
+    font-size: 24px;
 }
 
 i.fab {
@@ -49,8 +50,13 @@ i.fab {
     padding: 10px;
 }
 
+i.fab:hover {
+    font-size: 52px;
+}
+
 .social:link,
 .social:visited {
     color: black;
     text-decoration: none;
 }
+
