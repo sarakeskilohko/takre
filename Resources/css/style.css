@@ -60,3 +60,12 @@ i.fab:hover {
     text-decoration: none;
 }
 
+.KO,
+.KeKo,
+.KA,
+.SyKo {
+    position: relative;
+    display: list-item;
+    max-width: 40%;
+
+}
