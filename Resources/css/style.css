@@ -94,7 +94,7 @@ i.fab:hover {
 .SyKo {
     position: relative;
     display: list-item;
-    max-width: 40%;
+    width: 60%;
     
 }
 
@@ -106,9 +106,9 @@ i.fab:hover {
 
 .tekstit {
     display: inline-block;
-    max-width: 40%;
+    width: 60%;
 }
 
-.main {
-
+.jäsenyys {
+    padding: 20px 20px;
 }
