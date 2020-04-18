@@ -60,6 +60,10 @@ i.fab:hover {
     text-decoration: none;
 }
 
+#kuva {
+    width: 40%;
+}
+
 .KO,
 .KeKo,
 .KA,
@@ -69,3 +73,4 @@ i.fab:hover {
     max-width: 40%;
 
 }
+
