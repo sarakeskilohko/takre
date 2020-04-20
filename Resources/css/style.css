@@ -149,7 +149,6 @@ i.fab:hover {
 .aloitus {
     position: relative;
     padding-left: 20px;
-    top: 50px;
     display: flex;
     flex-direction: column;
 }
