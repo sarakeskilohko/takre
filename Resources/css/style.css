@@ -87,11 +87,7 @@ i.fab:hover {
 .KeKo,
 .KA,
 .SyKo {
-    position: relative;
     display: list-item;
-    width: 60%;
-    top: -20px;
-    float: right;
 }
 
 #cal {
@@ -99,9 +95,13 @@ i.fab:hover {
     padding: 12px 12px;
 }
 
-.tekstit {
+.tektit {
     display: inline-block;
-    width: 60%;
+    width: 40%;
+    position: absolute;
+    top: 10%;
+    right: 7%;
+    float: right;
 }
 
 .jasenyys {
