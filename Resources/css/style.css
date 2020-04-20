@@ -66,11 +66,6 @@ i.fab:hover {
     text-decoration: none;
 }
 
-#kuva {
-    max-width: 37%;
-    padding-right: 20px;
-}
-
 .esittely {
     max-width: 50%;
     padding: 32px 32px;
@@ -92,11 +87,7 @@ i.fab:hover {
 .KeKo,
 .KA,
 .SyKo {
-    position: relative;
     display: list-item;
-    width: 60%;
-    top: -20px;
-    float: right;
 }
 
 #cal {
@@ -104,9 +95,13 @@ i.fab:hover {
     padding: 12px 12px;
 }
 
-.tekstit {
+.tektit {
     display: inline-block;
-    width: 60%;
+    width: 40%;
+    position: absolute;
+    top: 10%;
+    right: 7%;
+    float: right;
 }
 
 .jasenyys {
@@ -129,7 +124,7 @@ i.fab:hover {
 }
 
 #peltikatto {
-    max-width: 30%;
+    max-width: 20%;
     bottom: 0px;
     display: flex;
     position: relative;
@@ -164,4 +159,14 @@ i.fab:hover {
     justify-content: space-evenly;
     position: relative;
     top: 50px;
+}
+
+#kuva {
+    max-width: 35%;
+    padding-right: 20px;
+    padding-top: 20px;
+    object-fit: contain;
+    position: absolute;
+    top: 10%;
+    right: 10%;
 }
