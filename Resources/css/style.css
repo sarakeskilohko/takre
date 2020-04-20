@@ -112,6 +112,8 @@ i.fab:hover {
 
 .jasenyys {
     padding: 20px 20px;
+    position: 
+    top: 50px;
 }
 
 #merkki {
@@ -144,6 +146,11 @@ i.fab:hover {
 }
 
 .aloitus {
+    position: relative;
+    top: 50px;
+}
+
+.main {
     position: relative;
     top: 50px;
 }
