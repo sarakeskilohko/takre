@@ -1,5 +1,6 @@
 html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow: hidden;
 }
 
 #logo {
@@ -111,7 +112,7 @@ i.fab:hover {
 
 .jasenyys {
     padding: 20px 20px;
-    position: 
+    position: relative;
     top: 50px;
 }
 
@@ -132,7 +133,7 @@ i.fab:hover {
     max-width: 20%;
     padding: 20px;
     float: left;
-    margin-bottom: 75px;
+    bottom: 0px;
 }
 
 .banner {
