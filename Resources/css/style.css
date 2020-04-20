@@ -66,11 +66,6 @@ i.fab:hover {
     text-decoration: none;
 }
 
-#kuva {
-    max-width: 37%;
-    padding-right: 20px;
-}
-
 .esittely {
     max-width: 50%;
     padding: 32px 32px;
@@ -165,4 +160,11 @@ i.fab:hover {
     justify-content: space-evenly;
     position: relative;
     top: 50px;
+}
+
+#kuva {
+    max-width: 35%;
+    padding-right: 20px;
+    padding-top: 20px;
+    object-fit: contain;
 }
