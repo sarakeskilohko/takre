@@ -124,7 +124,7 @@ i.fab:hover {
 }
 
 #peltikatto {
-    max-width: 30%;
+    max-width: 20%;
     bottom: 0px;
     display: flex;
     position: relative;
@@ -166,4 +166,7 @@ i.fab:hover {
     padding-right: 20px;
     padding-top: 20px;
     object-fit: contain;
+    position: absolute;
+    top: 10%;
+    right: 10%;
 }
