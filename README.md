@@ -12,11 +12,12 @@ Sivujen sisältö on seuraavanlainen:
         
      - Tapahtumat
         Sivu sisältää tapahtumakalenterin, jonne on merkitty seuran tulevat sekä menneet tapahtumat. 
-        Tämän lisäksi sivulla on pienet kuvaukset tapahtumista.
-        Lisätään ehkä kuvia tapahtumista?
+        Tämän lisäksi sivulla on pienet kuvaukset niin menneistä kuin tulevistakin tapahtumista.
         
      - Jäseneksi
         Sivulla kerrotaan ohjeet jäseneksi liittymisestä sekä ilmoitetaan seuran jäsenhinnasto. 
+        Myös seuran haalarimerkki sekä hinnat esitellään tällä sivulla.
         
         
 Jokaisen sivun alareunasta löytyvät linkit seuran Facebookiin ja Instagramiin, sekä seuran sähköpostiosoite.
+Linkkejä klikkaamalla pääsee suoraan haluttuun mediaan.
